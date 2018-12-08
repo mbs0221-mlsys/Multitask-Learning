@@ -1,6 +1,6 @@
 # Multitask-Learning
 ## Personal Page
-[Massimiliano Pontil - Publications](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
+[Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
 
 [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
 
@@ -40,6 +40,13 @@
 
 [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
 ## Papers
+
+[Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
+
+[An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
+
+[Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
+
 [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
 
 [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
@@ -54,3 +61,5 @@
 [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
 
 [Multi-Task Learning in Tensorflow](https://jg8610.github.io/Multi-Task/)
+
+[Neural Networks Research Group](http://nn.cs.utexas.edu/index.php)
