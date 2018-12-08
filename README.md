@@ -18,6 +18,8 @@
 
 [Zhuoliang Kang Ph.D student, Computer Science, USC](http://zhuoliang.me/research.html)
 
+[Shiliang Sun’s Home Page](http://www.cs.ecnu.edu.cn/~slsun/)
+
 [Dr. Timothy Hospedales](http://www.eecs.qmul.ac.uk/~tmh/index.html#home)
 
 [ML^2 @ UCF](http://ml.cecs.ucf.edu/node/52)
