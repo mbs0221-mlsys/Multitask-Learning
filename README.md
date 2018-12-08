@@ -46,7 +46,7 @@
 
 [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
 
-###Deep Multi-task learning
+### Deep Multi-task learning
 [New Research on Multi-Task Learning](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
 
 [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
