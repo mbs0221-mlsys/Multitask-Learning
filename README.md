@@ -58,6 +58,10 @@
 ### Deep Multi-task learning
 [New Research on Multi-Task Learning](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
 
+[An Overview of Multi-Task Learning in Deep Neural Networks](http://ruder.io/multi-task/index.html)
+
+[Multi-Task Learning with Deep Neural Networks](https://medium.com/@kajalgupta/multi-task-learning-with-deep-neural-networks-7544f8b7b4e3)
+
 [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
 
 [Multi-Task Learning in Tensorflow](https://jg8610.github.io/Multi-Task/)
