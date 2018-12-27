@@ -36,10 +36,16 @@
 * [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/home/accepted-papers)
 * [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
 ## Multitask Learning Areas
+### 多任务建模方式
 * 多任务关系学习
 * 多任务特征学习
+* 层次多任务学习
 * 聚类多任务学习
 * 多任务聚类
-* [深度多任务学习](./docs/mdl.md)
+* 联邦多任务学习
+### 多任务实现方式
+* 多任务贝叶斯方法
 * [多任务核方法](./docs/mkl.md)
+* [深度多任务学习](./docs/mdl.md)
 * 在线多任务学习
+* 多任务集成学习
