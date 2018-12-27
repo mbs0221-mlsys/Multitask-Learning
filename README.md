@@ -24,6 +24,7 @@
 * [SparseMTL Toolbox](http://asi.insa-rouen.fr/enseignants/~arakoto/code/SparseMTL.html#description)
 * [Bayesian multi-task learning based parametric trajectory model](https://github.com/LeonAksman/bayes-mtl-traj)
 * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
+* [HMTL: Hierarchical Multi-Task Learning](https://github.com/huggingface/hmtl)
 ## Papers
 * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
 * [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
@@ -40,5 +41,5 @@
 * 聚类多任务学习
 * 多任务聚类
 * [深度多任务学习](./docs/mdl.md)
-* [多任务核方法](./docs.mkl.md)
+* [多任务核方法](./docs/mkl.md)
 * 在线多任务学习
