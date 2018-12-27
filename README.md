@@ -26,7 +26,9 @@
 * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
 ## Papers
 * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
+* [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
 * [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
+* [A brief review on multi-task learning](https://link.springer.com/article/10.1007%2Fs11042-018-6463-x)
 * [Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
 * [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
 * [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
