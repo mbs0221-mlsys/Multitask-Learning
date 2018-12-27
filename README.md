@@ -1,7 +1,8 @@
 # 多任务学习 Multitask-Learning
 包含多任务学习的所有资料，包括：代表性学者主页、论文、综述、最新文集和开源代码。
 *欢迎一起贡献*~
-## 个人主页 Personal Page
+# Introduction
+## Personal Page
 [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
 
 [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
@@ -31,7 +32,7 @@
 [Gjorgji Strezoski](https://staff.fnwi.uva.nl/g.strezoski/)
 
 [Machine Learning with Interdependent and Non-identically Distributed Data](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15152)
-## 工具包 Package and Toolbox
+## Package and Toolbox
 [MALSAR: Multi-task learning via Structural Regularization](http://jiayuzhou.github.io/MALSAR/)
 
 [Multi-Task Learning: Theory, Algorithms, and Applications](https://archive.siam.org/meetings/sdm12/multi.php)
@@ -41,7 +42,7 @@
 [Bayesian multi-task learning based parametric trajectory model](https://github.com/LeonAksman/bayes-mtl-traj)
 
 [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
-## 论文 Papers
+## Papers
 
 [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
 
@@ -57,15 +58,10 @@
 
 [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
 
-### 深度多任务学习 Deep Multi-task learning
-[New Research on Multi-Task Learning](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
-
-[An Overview of Multi-Task Learning in Deep Neural Networks](http://ruder.io/multi-task/index.html)
-
-[Multi-Task Learning with Deep Neural Networks](https://medium.com/@kajalgupta/multi-task-learning-with-deep-neural-networks-7544f8b7b4e3)
-
-[Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
-
-[Multi-Task Learning in Tensorflow](https://jg8610.github.io/Multi-Task/)
-
-[Neural Networks Research Group](http://nn.cs.utexas.edu/index.php)
+## Multitask Learning Areas
+### 多任务关系学习
+### 多任务特征学习
+### 聚类多任务学习
+### 多任务聚类
+### [深度多任务学习](./docs/mdl.md)
+### [多任务核方法](./docs.mkl.md)
