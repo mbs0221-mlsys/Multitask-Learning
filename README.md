@@ -31,20 +31,25 @@
 * [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
 * [A brief review on multi-task learning](https://link.springer.com/article/10.1007%2Fs11042-018-6463-x)
 * [Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
-* [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
-* [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
-* [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/home/accepted-papers)
 * [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
+* [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/home/accepted-papers)
 ## Multitask Learning Areas
 ### 多任务建模方式
 * 多任务关系学习
+    * [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
+    * [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
+    * [Hierarchical_Multi_Task_Learning](https://github.com/digbose92/Hierarchical_Multi_Task_Learning)
 * 多任务特征学习
+    + [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
+    + [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
 * 层次多任务学习
 * 聚类多任务学习
 * 多任务聚类
 * 联邦多任务学习
+    + [Federated Multi-Task Learning](https://github.com/gingsmith/fmtl)
 ### 多任务实现方式
 * 多任务贝叶斯方法
+    + [Parametric Bayesian multi-task learning for modeling biomarker trajectories](https://github.com/LeonAksman/bayes-mtl-traj)
 * [多任务核方法](./docs/mkl.md)
 * [深度多任务学习](./docs/mdl.md)
 * 在线多任务学习
