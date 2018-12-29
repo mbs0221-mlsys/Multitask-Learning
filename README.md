@@ -42,7 +42,6 @@
 * 多任务特征学习
     + [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
     + [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
-* 层次多任务学习
 * 聚类多任务学习
 * 多任务聚类
 * 联邦多任务学习
