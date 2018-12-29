@@ -25,6 +25,8 @@
 * [Bayesian multi-task learning based parametric trajectory model](https://github.com/LeonAksman/bayes-mtl-traj)
 * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
 * [HMTL: Hierarchical Multi-Task Learning](https://github.com/huggingface/hmtl)
+* [Matlab MultiClass MultiTask Learning (MCMTL) toolbox](https://github.com/dsmbgu8/MCMTL)
+* [Multi Task Learning Package for Matlab](https://github.com/cciliber/matMTL)
 ## Papers
 * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
 * [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
@@ -46,10 +48,19 @@
 * 多任务聚类
 * 联邦多任务学习
     + [Federated Multi-Task Learning](https://github.com/gingsmith/fmtl)
-### 多任务实现方式
+### 多任务学习方法
+* 多任务Logistic回归
+    + [Multi-task logistic regression in brain-computer interfaces](https://github.com/vinay-jayaram/MTlearning)
 * 多任务贝叶斯方法
     + [Parametric Bayesian multi-task learning for modeling biomarker trajectories](https://github.com/LeonAksman/bayes-mtl-traj)
+    + [Kernelized Bayesian Multitask Learning](https://github.com/mehmetgonen/kbmtl)
+    + [BMTMKL: Bayesian Multitask Multiple Kernel Learning](https://research.cs.aalto.fi/pml/software/bmtmkl/)
+* 多任务高斯过程
+    + [Multi-task Gaussian process (MTGP)](https://github.com/ebonilla/mtgp)
 * [多任务核方法](./docs/mkl.md)
 * [深度多任务学习](./docs/mdl.md)
 * 在线多任务学习
+    + [Online Multi-Task Learning Toolkit (OMT) v1.0](https://github.com/lancopku/Multi-Task-Learning)
 * 多任务集成学习
+* 多任务强化学习
+    + [Robust-Multitask-RL](https://github.com/Alfo5123/Robust-Multitask-RL)
