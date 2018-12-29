@@ -53,8 +53,11 @@
 
 * 聚类多任务学习
 * 多任务聚类
+    + [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
 * 联邦多任务学习
     + [Federated Multi-Task Learning](https://github.com/gingsmith/fmtl)
+* 模型保护多任务学习
+    + [Model-Protected Multi-Task Learning](https://arxiv.org/abs/1809.06546)
 ### 多任务学习方法
 * 多任务Logistic回归
     + [Multi-task logistic regression in brain-computer interfaces](https://github.com/vinay-jayaram/MTlearning)
