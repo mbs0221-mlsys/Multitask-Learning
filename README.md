@@ -27,6 +27,7 @@
 * [HMTL: Hierarchical Multi-Task Learning](https://github.com/huggingface/hmtl)
 * [Matlab MultiClass MultiTask Learning (MCMTL) toolbox](https://github.com/dsmbgu8/MCMTL)
 * [Multi Task Learning Package for Matlab](https://github.com/cciliber/matMTL)
+* [Multi-task_Survival_Analysis](https://github.com/yanlirock/Multi-task_Survival_Analysis)
 ## Papers
 * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
 * [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
@@ -38,12 +39,18 @@
 ## Multitask Learning Areas
 ### 多任务建模方式
 * 多任务关系学习
-    * [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
-    * [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
-    * [Hierarchical_Multi_Task_Learning](https://github.com/digbose92/Hierarchical_Multi_Task_Learning)
+    + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
+    + [Hierarchical_Multi_Task_Learning](https://github.com/digbose92/Hierarchical_Multi_Task_Learning)
+    + [Asynchronous Multi-Task Learning](https://github.com/illidanlab/AMTL)
+    + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
+    + [Calibrated Multi-Task Learning Based on Non-convex Low Rank](https://github.com/sudalvxin/Multi-task-Learning)
 * 多任务特征学习
+    + [Multi-task feature learning](https://github.com/argyriou/multi_task_learning)
     + [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
     + [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
+* 多任务特征与关系学习
+    + [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
+
 * 聚类多任务学习
 * 多任务聚类
 * 联邦多任务学习
@@ -57,6 +64,7 @@
     + [BMTMKL: Bayesian Multitask Multiple Kernel Learning](https://research.cs.aalto.fi/pml/software/bmtmkl/)
 * 多任务高斯过程
     + [Multi-task Gaussian process (MTGP)](https://github.com/ebonilla/mtgp)
+    + [Gaussian process multi-task learning](https://github.com/amarquand/gpmtl)
 * [多任务核方法](./docs/mkl.md)
 * [深度多任务学习](./docs/mdl.md)
 * 在线多任务学习
