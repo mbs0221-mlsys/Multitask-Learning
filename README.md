@@ -18,6 +18,7 @@
 * [Elisa Ricci](https://sites.google.com/site/elisaricciunipg/home)
 * [Gjorgji Strezoski](https://staff.fnwi.uva.nl/g.strezoski/)
 * [Machine Learning with Interdependent and Non-identically Distributed Data](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15152)
+* [SFU Machine Learning Reading Group](https://www.cs.ubc.ca/~schmidtm/MLRG/)
 ## Package and Toolbox
 * [MALSAR: Multi-task learning via Structural Regularization](http://jiayuzhou.github.io/MALSAR/)
 * [Multi-Task Learning: Theory, Algorithms, and Applications](https://archive.siam.org/meetings/sdm12/multi.php)
