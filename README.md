@@ -8,6 +8,7 @@
 * [Tong Zhang (张潼)- Tencent AI Lab](http://tongzhang-ml.org/publication.html)
 * [Fuzhen Zhuang (庄福振)](http://www.intsci.ac.cn/users/zhuangfuzhen/#Resources)
 * [Lei Han's Homepage](http://sysbio.cvm.msstate.edu/~leihan/)
+* [Pattern Recognition & Neural Computing Group - NUAA](http://parnec.nuaa.edu.cn/)
 * [Fei Sha University of Southern California](http://www-bcf.usc.edu/~feisha/index.html)
 * [Dr Xiaojun Chang – Faculty of Information Technology – Monash University](http://www.cs.cmu.edu/~uqxchan1/index.html)
 * [Yu-Gang Jiang Prof.](http://www.yugangjiang.info/)
@@ -76,3 +77,7 @@
 * 多任务集成学习
 * 多任务强化学习
     + [Robust-Multitask-RL](https://github.com/Alfo5123/Robust-Multitask-RL)
+## 凸优化 Convex Optimization
+* [EE364a: Convex Optimization I Professor Stephen Boyd, Stanford University](http://web.stanford.edu/class/ee364a/)
+* [EE227BT: Convex Optimization  —  Fall 2013](https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227A/index.html)
+* [CRAN - Package ADMM](http://cran.stat.ucla.edu/web/packages/ADMM/)
