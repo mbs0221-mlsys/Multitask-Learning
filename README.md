@@ -23,6 +23,7 @@
 ## Package and Toolbox
 * [MALSAR: Multi-task learning via Structural Regularization](http://jiayuzhou.github.io/MALSAR/)
 * [Multi-Task Learning: Theory, Algorithms, and Applications](https://archive.siam.org/meetings/sdm12/multi.php)
+* [MMT: A Matlab Library for Multi-Task Learning](http://publish.illinois.edu/xiaohuichen/code/mmt/) [More](http://ece.ubc.ca/~xiaohuic/code/multi-task_lasso/multi-task_lasso.htm)
 * [SparseMTL Toolbox](http://asi.insa-rouen.fr/enseignants/~arakoto/code/SparseMTL.html#description)
 * [Bayesian multi-task learning based parametric trajectory model](https://github.com/LeonAksman/bayes-mtl-traj)
 * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
