@@ -11,3 +11,5 @@
     * [Multi-Task Learning in Tensorflow](https://jg8610.github.io/Multi-Task/)
     * [Neural Networks Research Group](http://nn.cs.utexas.edu/index.php)
     * [Caiming Xiong - Home Page](http://www.stat.ucla.edu/~caiming/)
+ * GitHub
+    * [Multi-Task Deep Neural Networks for Natural Language Understanding](https://github.com/namisan/mt-dnn)

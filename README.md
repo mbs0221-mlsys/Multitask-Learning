@@ -23,6 +23,7 @@
 ## Package and Toolbox
 * [MALSAR: Multi-task learning via Structural Regularization](http://jiayuzhou.github.io/MALSAR/)
 * [Multi-Task Learning: Theory, Algorithms, and Applications](https://archive.siam.org/meetings/sdm12/multi.php)
+* [An Tutorial for Regularized Multi-task Learning using the package RMTL](https://cran.r-project.org/web/packages/RMTL/vignettes/rmtl.html)
 * [SparseMTL Toolbox](http://asi.insa-rouen.fr/enseignants/~arakoto/code/SparseMTL.html#description)
 * [Bayesian multi-task learning based parametric trajectory model](https://github.com/LeonAksman/bayes-mtl-traj)
 * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
@@ -38,7 +39,7 @@
 * [Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
 * [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
 * [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/home/accepted-papers)
-## Multitask Learning Areas
+## Multitask Learning
 ### 多任务建模方式
 * 多任务关系学习
     + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
@@ -71,12 +72,14 @@
     + [Multi-task Gaussian process (MTGP)](https://github.com/ebonilla/mtgp)
     + [Gaussian process multi-task learning](https://github.com/amarquand/gpmtl)
 * [多任务核方法](./docs/mkl.md)
-* [深度多任务学习](./docs/mdl.md)
+* [多任务深度学习](./docs/mdl.md)
 * 在线多任务学习
     + [Online Multi-Task Learning Toolkit (OMT) v1.0](https://github.com/lancopku/Multi-Task-Learning)
 * 多任务集成学习
 * 多任务强化学习
     + [Robust-Multitask-RL](https://github.com/Alfo5123/Robust-Multitask-RL)
+## 多标签学习
+* [KEEL-dataset repository](https://sci2s.ugr.es/keel/multilabel.php#sub10)
 ## 凸优化 Convex Optimization
 * [EE364a: Convex Optimization I Professor Stephen Boyd, Stanford University](http://web.stanford.edu/class/ee364a/)
 * [EE227BT: Convex Optimization  —  Fall 2013](https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227A/index.html)
