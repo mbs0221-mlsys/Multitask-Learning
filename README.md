@@ -1,6 +1,7 @@
 # 多任务学习 Multitask-Learning
-包含多任务学习的所有资料，包括：代表性学者主页、论文、综述、最新文集和开源代码。
-*欢迎一起贡献*~
+
+多任务学习领域相关资料，包括代表性学者主页、论文、综述、最新文集和开源代码。欢迎分享~
+
 # Introduction
 ## Personal Page
 * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
@@ -53,13 +54,11 @@
     + [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
 * 多任务特征与关系学习
     + [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
-
-* 聚类多任务学习
-* 多任务聚类
+* 无监督多任务聚类
     + [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
-* 联邦多任务学习
+    + [Multi-Task Clustering with Model Relation Learning](https://doi.org/10.24963/ijcai.2018/435)
+* 隐私保护多任务学习
     + [Federated Multi-Task Learning](https://github.com/gingsmith/fmtl)
-* 模型保护多任务学习
     + [Model-Protected Multi-Task Learning](https://arxiv.org/abs/1809.06546)
 ### 多任务学习方法
 * 多任务Logistic回归
