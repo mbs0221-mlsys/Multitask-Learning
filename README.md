@@ -1,9 +1,9 @@
-# 多任务学习 Multitask-Learning
+# Multitask-Learning
 
 多任务学习领域相关资料，包括代表性学者主页、论文、综述、最新文集和开源代码。欢迎分享~
 
 # Introduction
-## Personal Page
+## Homepage
 * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
 * [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
 * [Tong Zhang (张潼)- Tencent AI Lab](http://tongzhang-ml.org/publication.html)
@@ -21,6 +21,7 @@
 * [Gjorgji Strezoski](https://staff.fnwi.uva.nl/g.strezoski/)
 * [Machine Learning with Interdependent and Non-identically Distributed Data](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=15152)
 * [SFU Machine Learning Reading Group](https://www.cs.ubc.ca/~schmidtm/MLRG/)
+* [Multitask Learning / Domain Adaptation](http://www.cs.cornell.edu/~kilian/research/multitasklearning/multitasklearning.html)
 ## Package and Toolbox
 * [MALSAR: Multi-task learning via Structural Regularization](http://jiayuzhou.github.io/MALSAR/)
 * [Multi-Task Learning: Theory, Algorithms, and Applications](https://archive.siam.org/meetings/sdm12/multi.php)
