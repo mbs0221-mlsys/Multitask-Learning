@@ -44,43 +44,43 @@
 ## Multitask Learning
 ### 多任务建模方式
 * 多任务关系学习
-    + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
-    + [Hierarchical_Multi_Task_Learning](https://github.com/digbose92/Hierarchical_Multi_Task_Learning)
-    + [Asynchronous Multi-Task Learning](https://github.com/illidanlab/AMTL)
-    + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
-    + [Calibrated Multi-Task Learning Based on Non-convex Low Rank](https://github.com/sudalvxin/Multi-task-Learning)
+  + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
+  + [Hierarchical_Multi_Task_Learning](https://github.com/digbose92/Hierarchical_Multi_Task_Learning)
+  + [Asynchronous Multi-Task Learning](https://github.com/illidanlab/AMTL)
+  + [Asymmetric Multi-Task Learning](https://github.com/BlasterL/AMTL)
+  + [Calibrated Multi-Task Learning Based on Non-convex Low Rank](https://github.com/sudalvxin/Multi-task-Learning)
 * 多任务特征学习
-    + [Multi-task feature learning](https://github.com/argyriou/multi_task_learning)
-    + [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
-    + [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
+  + [Multi-task feature learning](https://github.com/argyriou/multi_task_learning)
+  + [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
+  + [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
 * 多任务特征与关系学习
-    + [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
+  + [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
 * 无监督多任务聚类
-    + [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
-    + [Multi-Task Clustering with Model Relation Learning](https://doi.org/10.24963/ijcai.2018/435)
+  + [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
+  + [Multi-Task Clustering with Model Relation Learning](https://doi.org/10.24963/ijcai.2018/435)
 * 隐私保护多任务学习
-    + [Federated Multi-Task Learning](https://github.com/gingsmith/fmtl)
-    + [Model-Protected Multi-Task Learning](https://arxiv.org/abs/1809.06546)
+  + [Federated Multi-Task Learning](https://github.com/gingsmith/fmtl)
+  + [Model-Protected Multi-Task Learning](https://arxiv.org/abs/1809.06546)
 ### 多任务学习方法
 * 多任务Logistic回归
-    + [Multi-task logistic regression in brain-computer interfaces](https://github.com/vinay-jayaram/MTlearning)
+  + [Multi-task logistic regression in brain-computer interfaces](https://github.com/vinay-jayaram/MTlearning)
 * 多任务贝叶斯方法
-    + [Parametric Bayesian multi-task learning for modeling biomarker trajectories](https://github.com/LeonAksman/bayes-mtl-traj)
-    + [Kernelized Bayesian Multitask Learning](https://github.com/mehmetgonen/kbmtl)
-    + [BMTMKL: Bayesian Multitask Multiple Kernel Learning](https://research.cs.aalto.fi/pml/software/bmtmkl/)
+  + [Parametric Bayesian multi-task learning for modeling biomarker trajectories](https://github.com/LeonAksman/bayes-mtl-traj)
+  + [Kernelized Bayesian Multitask Learning](https://github.com/mehmetgonen/kbmtl)
+  + [BMTMKL: Bayesian Multitask Multiple Kernel Learning](https://research.cs.aalto.fi/pml/software/bmtmkl/)
 * 多任务高斯过程
-    + [Multi-task Gaussian process (MTGP)](https://github.com/ebonilla/mtgp)
-    + [Gaussian process multi-task learning](https://github.com/amarquand/gpmtl)
+  + [Multi-task Gaussian process (MTGP)](https://github.com/ebonilla/mtgp)
+  + [Gaussian process multi-task learning](https://github.com/amarquand/gpmtl)
 * [多任务核方法](./docs/mkl.md)
 * [多任务深度学习](./docs/mdl.md)
 * 在线多任务学习
-    + [Online Multi-Task Learning Toolkit (OMT) v1.0](https://github.com/lancopku/Multi-Task-Learning)
+  + [Online Multi-Task Learning Toolkit (OMT) v1.0](https://github.com/lancopku/Multi-Task-Learning)
 * 多任务集成学习
 * 多任务强化学习
-    + [Robust-Multitask-RL](https://github.com/Alfo5123/Robust-Multitask-RL)
-## 多标签学习
+  + [Robust-Multitask-RL](https://github.com/Alfo5123/Robust-Multitask-RL)
+## Multilabel learning
 * [KEEL-dataset repository](https://sci2s.ugr.es/keel/multilabel.php#sub10)
-## 凸优化 Convex Optimization
+## Convex Optimization
 * [EE364a: Convex Optimization I Professor Stephen Boyd, Stanford University](http://web.stanford.edu/class/ee364a/)
 * [EE227BT: Convex Optimization  —  Fall 2013](https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227A/index.html)
 * [CRAN - Package ADMM](http://cran.stat.ucla.edu/web/packages/ADMM/)
