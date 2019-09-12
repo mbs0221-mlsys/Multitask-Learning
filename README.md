@@ -2,7 +2,6 @@
 
 多任务学习领域相关资料，包括代表性学者主页、论文、综述、最新文集和开源代码。欢迎分享~
 
-# Introduction
 * Homepage
     * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
     * [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
@@ -24,7 +23,6 @@
 * Github
     + [Multi-task logistic regression in brain-computer interfaces](https://github.com/vinay-jayaram/MTlearning)
     + [Multi-task feature learning](https://github.com/argyriou/multi_task_learning)
-    + [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
     + [Calibrated Multi-Task Learning Based on Non-convex Low Rank](https://github.com/sudalvxin/Multi-task-Learning)
     + [Bayesian multi-task learning based parametric trajectory model](https://github.com/LeonAksman/bayes-mtl-traj)
     + [Parametric Bayesian multi-task learning for modeling biomarker trajectories](https://github.com/LeonAksman/bayes-mtl-traj)
@@ -48,6 +46,7 @@
     * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
     * [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
     * [A brief review on multi-task learning](https://link.springer.com/article/10.1007%2Fs11042-018-6463-x)
+    * [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
     * [Multi-Task Clustering with Model Relation Learning](https://doi.org/10.24963/ijcai.2018/435)
     * [Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
     * [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
