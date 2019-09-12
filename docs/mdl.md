@@ -1,4 +1,7 @@
-# 多任务深度学习
+# Multitask Deep Learning
+* Homepage
+  * [Neural Networks Research Group](http://nn.cs.utexas.edu/index.php)
+  * [Caiming Xiong - Home Page](http://www.stat.ucla.edu/~caiming/)
 * Survey and Overview
   * [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
 * Papers
@@ -16,6 +19,3 @@
   * [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
   * [Multi-Task Learning in Tensorflow](https://jg8610.github.io/Multi-Task/)
   * [Multi-Task Deep Neural Networks for Natural Language Understanding](https://github.com/namisan/mt-dnn)
-* Homepage
-  * [Neural Networks Research Group](http://nn.cs.utexas.edu/index.php)
-  * [Caiming Xiong - Home Page](http://www.stat.ucla.edu/~caiming/)
