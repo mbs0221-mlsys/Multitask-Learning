@@ -12,4 +12,4 @@
         * [Multi-task centroid twin support vector machine](https://doi.org/10.1016/j.neucom.2014.07.025)
         * [Multi-task least squares twin support vector machine](https://doi.org/10.1016/j.neucom.2018.12.079)
 * Multitask Multi-Kernel Learning
-    + [Multi-Task Multiple Kernel Relationship Learning](https://github.com/keerthi166/MKMTRL)
+    * [Multi-Task Multiple Kernel Relationship Learning](https://github.com/keerthi166/MKMTRL)

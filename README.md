@@ -26,6 +26,7 @@
     * Bayesian Methods
         * [Kernelized Bayesian Multitask Learning](https://github.com/mehmetgonen/kbmtl)
         * [Parametric Bayesian multi-task learning for modeling biomarker trajectories](https://github.com/LeonAksman/bayes-mtl-traj)
+        * [Bayesian Multitask Multiple Kernel Learning](https://github.com/mehmetgonen/bmtmkl)
     * Gaussian Process
         * [Multi-task Gaussian process (MTGP)](https://github.com/ebonilla/mtgp)
         * [Gaussian process multi-task learning](https://github.com/amarquand/gpmtl)
@@ -35,6 +36,7 @@
         * [Asynchronous Multi-Task Learning](https://github.com/illidanlab/AMTL)
         * [HMTL: Hierarchical Multi-Task Learning](https://github.com/huggingface/hmtl)
         * [Multi-task feature learning](https://github.com/argyriou/multi_task_learning)
+        * [Multiplicative MultiTask Feature Learning (MMTFL)](https://github.com/JunYongJeong/MMTFL)
         * [Learning Incoherent Sparse and Low-Rank Patterns from Multiple Tasks](https://github.com/AlamiMejjati/Mtl-Implem)
         * [Variable Selection and Task Grouping for Multi-Task Learning (VSTG-MTL)](https://github.com/JunYongJeong/VSTG-MTL)
         * [Calibrated Multi-Task Learning Based on Non-convex Low Rank](https://github.com/sudalvxin/Multi-task-Learning)
@@ -51,6 +53,7 @@
         * [Multi Task Learning Package for Matlab](https://github.com/cciliber/matMTL)
         * [Package to apply MTL on a few dataset](https://github.com/chcorbi/MultiTaskLearning)
         * [Matlab MultiClass MultiTask Learning (MCMTL) toolbox](https://github.com/dsmbgu8/MCMTL)
+        * [Personalized Multitask Learning](https://github.com/mitmedialab/PersonalizedMultitaskLearning)
 * Papers
     * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
     * [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)

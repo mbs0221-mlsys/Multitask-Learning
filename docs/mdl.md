@@ -17,5 +17,11 @@
   * [New Research on Multi-Task Learning](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
   * [Multi-Task Learning with Deep Neural Networks](https://medium.com/@kajalgupta/multi-task-learning-with-deep-neural-networks-7544f8b7b4e3)
   * [Multi-Task Learning Objectives for Natural Language Processing](http://ruder.io/multi-task-learning-nlp/)
+* GitHub
   * [Multi-Task Learning in Tensorflow](https://jg8610.github.io/Multi-Task/)
   * [Multi-Task Deep Neural Networks for Natural Language Understanding](https://github.com/namisan/mt-dnn)
+  * [BERT for Multitask Learning](https://github.com/JayYip/bert-multitask-learning)
+  * [Deep Multi-Task Sentiment Analysis](https://github.com/polaroidz/multitask_sentiment_analysis)
+  * [MULTI-TASK LEARNING ON MNIST IMAGE DATASETS](https://github.com/pochih/MNIST-multitask)
+  * [Multi-task joint learning](https://github.com/ksingla025/MultiTask)
+  * [Multi-Task Learning Software Suite (MTL4C), Version: 1.0](https://github.com/LLNL/MTL-suite)
