@@ -12,6 +12,8 @@
   * [One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
   * [Auxiliary Tasks in Multi-task Learning](https://arxiv.org/abs/1805.06334)
   * [End-to-End Multi-Task Learning with Attention](https://arxiv.org/abs/1803.10704)
+  * [A Multi-Task Learning Approach for Answer Selection: A Study and a Chinese Law Dataset](https://aaai.org/ojs/index.php/AAAI/article/view/5104)
+  * [A Multi-Task Learning Framework for Abstractive Text Summarization](https://aaai.org/ojs/index.php/AAAI/article/view/5130)
 * Tutorials
   * [Multi-task Learning on MNIST Image Datasets](https://openreview.net/forum?id=S1PWi_lC-)
   * [New Research on Multi-Task Learning](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html)
