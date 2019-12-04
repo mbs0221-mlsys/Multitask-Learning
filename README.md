@@ -3,7 +3,7 @@
 多任务学习领域相关资料，包括代表性学者主页、论文、综述、最新文集和开源代码。欢迎分享~
 
 * Homepage
-    * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/pubs.html)
+    * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/)
     * [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
     * [Tong Zhang (张潼)- Tencent AI Lab](http://tongzhang-ml.org/publication.html)
     * [Fuzhen Zhuang (庄福振)](http://www.intsci.ac.cn/users/zhuangfuzhen/#Resources)
