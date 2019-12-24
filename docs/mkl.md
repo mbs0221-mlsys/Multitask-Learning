@@ -6,9 +6,9 @@
     * [Binary_SVM_MTL](https://github.com/maziars/Binary_SVM_MTL)
     * Regularized multi-task learning
         * [Multi-Task Least-Squares Support Vector Machines](https://github.com/pzczxs/MTLSSVM)
-        * Multi-task proximal support vector machine
-        * Multi-task asymmetric least squares support vector machine
-    * Multi-task twin support vector machine
+        * [Multi-task proximal support vector machine](https://doi.org/10.1016/j.patcog.2015.01.014)
+        * [Multi-task asymmetric least squares support vector machine](https://link.springer.com/article/10.1007%2Fs10489-017-1087-9)
+    * [Multi-task twin support vector machine](https://link.springer.com/chapter/10.1007%2F978-3-642-34481-7_42)
         * [Multi-task centroid twin support vector machine](https://doi.org/10.1016/j.neucom.2014.07.025)
         * [Multi-task least squares twin support vector machine](https://doi.org/10.1016/j.neucom.2018.12.079)
         * [Multi-task ν-twin support vector machines](https://link.springer.com/article/10.1007%2Fs00521-019-04628-5)
