@@ -51,6 +51,7 @@
         * [MALSAR: Multi-task learning via Structural Regularization](http://jiayuzhou.github.io/MALSAR/)
         * [MALSAR package Version 1.1](https://github.com/xiayan/MTL)
         * [Multi Task Learning Package for Matlab](https://github.com/cciliber/matMTL)
+        * [Regularized Multi-task Learning in R](https://github.com/transbioZI/RMTL)
         * [Package to apply MTL on a few dataset](https://github.com/chcorbi/MultiTaskLearning)
         * [Matlab MultiClass MultiTask Learning (MCMTL) toolbox](https://github.com/dsmbgu8/MCMTL)
         * [Personalized Multitask Learning](https://github.com/mitmedialab/PersonalizedMultitaskLearning)
@@ -74,8 +75,10 @@
     * [Multitask Kernel Methods](./docs/mkl.md)
     * [Multitask Deep Learning](./docs/mdl.md)
 * Package & Toolbox
+    * [RMTL: Regularized Multi-Task Learning
+](https://cran.r-project.org/web/packages/RMTL/index.html)
     * [Multi-Task Learning: Theory, Algorithms, and Applications](https://archive.siam.org/meetings/sdm12/multi.php)
-    * [An Tutorial for Regularized Multi-task Learning using the package RMTL](https://cran.r-project.org/web/packages/RMTL/vignettes/rmtl.html)
+    * [An Tutorial for Regularized Multi-task Learning using the package RMTL](https://cran.r-project.org/web/packages/RMTL/vignettes/rmtl.html)    
     * [SparseMTL Toolbox](http://asi.insa-rouen.fr/enseignants/~arakoto/code/SparseMTL.html#description)
     * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
 ## Multilabel learning
