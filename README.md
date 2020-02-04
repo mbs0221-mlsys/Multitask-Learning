@@ -87,3 +87,5 @@
 * [EE364a: Convex Optimization I Professor Stephen Boyd, Stanford University](http://web.stanford.edu/class/ee364a/)
 * [EE227BT: Convex Optimization  —  Fall 2013](https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227A/index.html)
 * [CRAN - Package ADMM](http://cran.stat.ucla.edu/web/packages/ADMM/)
+* [Proximal-Proximal-Gradient Method](https://www.math.ucla.edu/~wotaoyin/papers/prox_prox_grad.html)
+* [Proximal gradient method](http://bicmr.pku.edu.cn/~wenzw/opt2015/lect-proxg.pdf)
