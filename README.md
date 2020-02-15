@@ -81,7 +81,7 @@
     * [An Tutorial for Regularized Multi-task Learning using the package RMTL](https://cran.r-project.org/web/packages/RMTL/vignettes/rmtl.html)    
     * [SparseMTL Toolbox](http://asi.insa-rouen.fr/enseignants/~arakoto/code/SparseMTL.html#description)
     * [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/software.shtml)
-# Related Research Areas
+## Related Research Areas
 * Multi-Label Learning
    * [KEEL-dataset repository](https://sci2s.ugr.es/keel/multilabel.php#sub10)
 * Few-Shot Learning & Meta-Learning
@@ -91,7 +91,7 @@
     * [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning)
     * [Torchmeta](https://github.com/tristandeleu/pytorch-meta)
     * [Model-Agnostic Meta-Learning](https://github.com/dragen1860/MAML-Pytorch)
-# Convex Optimization
+## Convex Optimization
 * [EE364a: Convex Optimization I Professor Stephen Boyd, Stanford University](http://web.stanford.edu/class/ee364a/)
 * [EE227BT: Convex Optimization  —  Fall 2013](https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227A/index.html)
 * [CRAN - Package ADMM](http://cran.stat.ucla.edu/web/packages/ADMM/)
