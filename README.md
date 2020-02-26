@@ -1,7 +1,8 @@
 # Multitask-Learning
 
 多任务学习领域相关资料，包括代表性学者主页、论文、综述、最新文集和开源代码。欢迎分享~
-
+* Something New!!!
+    * [CS330: Deep Multi-Task and Meta-Learning](http://cs330.stanford.edu/)
 * Homepage
     * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/)
     * [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
