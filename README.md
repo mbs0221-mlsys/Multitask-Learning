@@ -4,6 +4,7 @@
 * Something New!!!
     * [CS330: Deep Multi-Task and Meta-Learning](http://cs330.stanford.edu/)
 * Homepage
+    * [Rich Caruana's (terribly out-of-date) Home Page](http://www.cs.cmu.edu/~caruana/)
     * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/)
     * [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
     * [Tong Zhang (张潼)- Tencent AI Lab](http://tongzhang-ml.org/publication.html)
