@@ -66,6 +66,7 @@
     * [Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
     * [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
     * [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/home/accepted-papers)
+    * [Manifold Regularized Multi-Task Learning](https://doi.org/10.1007/978-3-642-34487-9_64)
 * Arxiv
     * [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
     * [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
