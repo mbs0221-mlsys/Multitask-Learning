@@ -1,6 +1,5 @@
 # Multitask-Learning
-
-多任务学习领域相关资料，包括代表性学者主页、论文、综述、最新文集和开源代码。欢迎分享~
+   多任务学习相关资料，主要包括代表性学者主页、论文、综述、幻灯片、论文集和开源代码。欢迎分享~ 
 * Something New!!!
     * [CS330: Deep Multi-Task and Meta-Learning](http://cs330.stanford.edu/)
 * Homepage
