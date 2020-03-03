@@ -74,13 +74,13 @@
     * [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
     * [Model-Protected Multi-Task Learning](https://arxiv.org/abs/1809.06546)
 * Slides
-    * Paper slides
+    * Article slides
         * [Multi-Task Feature Learning](./pdf/oh06_argyriou_mtfl_01.pdf)
         * [Multi-Stage Multi-Task Feature Learning](./pdf/machine_zhang_learning_01.pdf)
         * [A Dirty Model for Multitask Learning](./pdf/nips2010_jalali_dmm_01.pdf)
         * [Learning Incoherent Sparse and Low-Rank Patterns from Multiple Tasks](./pdf/kdd2010_chen_lislrpmt_01.ppt)
         * [A Graph-based Framework for Multi-Task Multi-View Learning](./pdf/A%20Graph-based%20Framework%20for%20Multi-Task%20Multi-View%20Learning.pdf)
-    * Report slides
+    * Lecture slides
         * [Multi-Task Learning: The Bayesian Way, 2006](./pdf/oh06_heskes_bw_01.pdf)
         * [Multi-task Gaussian Process Prediction, 2008](./pdf/bark08_williams_mtlwgp_01.pdf)
         * [Multitask Multiple Kernel Learning, 2010](./pdf/nipsworkshops2010_widmer_mmk_01.pdf)
