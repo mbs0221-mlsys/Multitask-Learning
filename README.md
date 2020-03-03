@@ -67,10 +67,33 @@
     * [Online multitask relative similarity learning](https://ink.library.smu.edu.sg/sis_research/3846/)
     * [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/home/accepted-papers)
     * [Manifold Regularized Multi-Task Learning](https://doi.org/10.1007/978-3-642-34487-9_64)
+    * [Multi-Objective Multi-Task Learning](./pdf/Multi-Objective%20Multi-Task%20Learning.pdf)
+    * [Multi-Task Active Learning](./pdf/Multi-Task%20Active%20Learning.pdf)
 * Arxiv
     * [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
     * [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
     * [Model-Protected Multi-Task Learning](https://arxiv.org/abs/1809.06546)
+* Slides
+    * Paper slides
+        * [Multi-Task Feature Learning](./pdf/oh06_argyriou_mtfl_01.pdf)
+        * [Multi-Stage Multi-Task Feature Learning](./pdf/machine_zhang_learning_01.pdf)
+        * [A Dirty Model for Multitask Learning](./pdf/nips2010_jalali_dmm_01.pdf)
+        * [Learning Incoherent Sparse and Low-Rank Patterns from Multiple Tasks](./pdf/kdd2010_chen_lislrpmt_01.ppt)
+        * [A Graph-based Framework for Multi-Task Multi-View Learning](./pdf/A%20Graph-based%20Framework%20for%20Multi-Task%20Multi-View%20Learning.pdf)
+    * Report slides
+        * [Multi-Task Learning: The Bayesian Way, 2006](./pdf/oh06_heskes_bw_01.pdf)
+        * [Multi-task Gaussian Process Prediction, 2008](./pdf/bark08_williams_mtlwgp_01.pdf)
+        * [Multitask Multiple Kernel Learning, 2010](./pdf/nipsworkshops2010_widmer_mmk_01.pdf)
+        * [Multi-task Regularization of Generative Similarity Models, 2011](./pdf/simbad2011_cazzanti_generative_01.pdf)
+        * [Learning Multiple Tasks with a Sparse Matrix-Normal Penalty, 2011](./pdf/Esther3.25.2011.pdf)
+        * [Multi-Task Learning via Matrix Regularization](./pdf/lkasok08_argyriou_mtlvmr_01.pdf)
+        * [Multi-Task Learning: Theory, Algorithms, and Applications, 2012](./pdf/Multi-Task%20Learning-Theory,%20Algorithms,%20and%20Applications.pdf)
+        * [Multi-task and Transfer Learning, 2013](./pdf/Multi-task%20and%20Transfer%20Learning.pdf)
+        * [Multi-task Learning and Structured Sparsity, 2013](./pdf/Multi-task%20Learning%20and%20Structured%20Sparsity.pdf)
+        * [Multi-task Learning, 2013](./pdf/roks2013_pontil_learning_01.pdf)
+        * [Multi-task Learning, 2014](./pdf/Multi-task%20Learning-1.pdf)
+        * [Multi-Task Learning: Models, Optimization and Applications, 2016](./pdf/Multi-Task%20Learning-Models,%20Optimization%20and%20Applications.pdf)
+        * [Domain Adaptation / Multi-Task Learning Methods and Examples](./pdf/Domain%20Adaptation%20–%20Algorithms,%20Variants%20and%20Extensions.pdf)
 * Resources
     * [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
     * [BMTMKL: Bayesian Multitask Multiple Kernel Learning](https://research.cs.aalto.fi/pml/software/bmtmkl/)
