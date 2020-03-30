@@ -116,6 +116,10 @@
     * [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning)
     * [Torchmeta](https://github.com/tristandeleu/pytorch-meta)
     * [Model-Agnostic Meta-Learning](https://github.com/dragen1860/MAML-Pytorch)
+* Federated Learning
+    * [Federated Learning](https://github.com/ZeroWangZY/federated-learning)
+    * [Awesome Federated Learning](https://github.com/poga/awesome-federated-learning)
+    * [Awesome Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
 ## Convex Optimization
 * [EE364a: Convex Optimization I Professor Stephen Boyd, Stanford University](http://web.stanford.edu/class/ee364a/)
 * [EE227BT: Convex Optimization  —  Fall 2013](https://people.eecs.berkeley.edu/~elghaoui/Teaching/EE227A/index.html)
