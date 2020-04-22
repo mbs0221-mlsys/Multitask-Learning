@@ -1,5 +1,6 @@
 # Multitask-Learning
    多任务学习相关资料，主要包括代表性学者主页、论文、综述、幻灯片、论文集和开源代码。欢迎分享~ 
+   This repository collects Multitask-Learning related materials, mainly including the homepage of representative scholars, papers, surveys, slides, proceedings, and open-source projects. Welcome to share these materials!
 * Something New!!!
     * [CS330: Deep Multi-Task and Meta-Learning](http://cs330.stanford.edu/)
 * Homepage
