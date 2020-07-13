@@ -62,7 +62,6 @@
     * [Multitask Learning](https://link.springer.com/article/10.1023/A:1007379606734)
     * [An overview of multi-task learning](https://academic.oup.com/nsr/article/5/1/30/4101432)
     * [A brief review on multi-task learning](https://link.springer.com/article/10.1007%2Fs11042-018-6463-x)
-    * [Safe sample screening for regularized multi-task learning](https://linkinghub.elsevier.com/retrieve/pii/S0950705120304469)
     * [Multi-task feature learning by using trace norm regularization](http://adsabs.harvard.edu/abs/2017OPhy...15...79J)
     * [Multi-Task Clustering with Model Relation Learning](https://doi.org/10.24963/ijcai.2018/435)
     * [Online Multitask Learning](https://www.microsoft.com/en-us/research/publication/online-multitask-learning/)
@@ -71,6 +70,7 @@
     * [Manifold Regularized Multi-Task Learning](https://doi.org/10.1007/978-3-642-34487-9_64)
     * [Multi-Objective Multi-Task Learning](./pdf/Multi-Objective%20Multi-Task%20Learning.pdf)
     * [Multi-Task Active Learning](./pdf/Multi-Task%20Active%20Learning.pdf)
+    * [Safe sample screening for regularized multi-task learning](https://linkinghub.elsevier.com/retrieve/pii/S0950705120304469)
 * Arxiv
     * [A Survey on Multi-Task Learning](https://arxiv.org/abs/1707.08114)
     * [Self-Paced Multi-Task Clustering](https://arxiv.org/abs/1808.08068)
