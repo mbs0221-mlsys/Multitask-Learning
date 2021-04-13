@@ -7,6 +7,7 @@
 * Homepage
     * [Rich Caruana's (terribly out-of-date) Home Page](http://www.cs.cmu.edu/~caruana/)
     * [Massimiliano Pontil - UCL](http://www0.cs.ucl.ac.uk/staff/M.Pontil/)
+    * [Jiayu Zhou | Machine Learning at Michigan State University](http://jiayuzhou.github.io/)
     * [Yu Zhang (张宇) - HKUST](https://www.cse.ust.hk/~yuzhangcse/)
     * [Tong Zhang (张潼)- Tencent AI Lab](http://tongzhang-ml.org/publication.html)
     * [Fuzhen Zhuang (庄福振)](http://www.intsci.ac.cn/users/zhuangfuzhen/#Resources)
@@ -97,6 +98,7 @@
         * [Multi-task Learning, 2014](./pdf/Multi-task%20Learning-1.pdf)
         * [Multi-Task Learning: Models, Optimization and Applications, 2016](./pdf/Multi-Task%20Learning-Models,%20Optimization%20and%20Applications.pdf)
         * [Domain Adaptation / Multi-Task Learning Methods and Examples](./pdf/Domain%20Adaptation%20–%20Algorithms,%20Variants%20and%20Extensions.pdf)
+        * [Recent Advances in Multi-Task Learning](http://jiayuzhou.github.io/talks/advances_in_multitask_learning.pdf)
 * Resources
     * [Task Sensitive Feature Exploration and Learning for Multi-Task Graph Classification](http://www.cse.fau.edu/~xqzhu/FelMuG/index.html)
     * [BMTMKL: Bayesian Multitask Multiple Kernel Learning](https://research.cs.aalto.fi/pml/software/bmtmkl/)
